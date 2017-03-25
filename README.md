@@ -13,7 +13,7 @@ To build and run the server
 2. `go build`
 3. `./api`
 
-## Client
+### Client
 
 To build and run the client
 1. `npm install`
