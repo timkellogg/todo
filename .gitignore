@@ -13,3 +13,5 @@ client/dist
 # ignore npm-debug log files
 npm-debug.log
 
+# Ignore DS_STORE files
+DS_STORE
