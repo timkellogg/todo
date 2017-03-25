@@ -1,0 +1,29 @@
+{
+  "name": "todogotypescript",
+  "version": "1.0.0",
+  "description": "Todo app with Go and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "$(npm bin)/webpack"
+  },
+  "keywords": [
+    "Go",
+    "Todo",
+    "React",
+    "Typescript"
+  ],
+  "author": "Tim Kellogg",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^15.0.18",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.2",
+    "source-map-loader": "^0.2.0",
+    "typescript": "^2.2.1"
+  }
+}
